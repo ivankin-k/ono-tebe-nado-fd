@@ -28,7 +28,6 @@
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  letter-spacing: 0.1px;
 }
 
 .header__links-list {
@@ -107,7 +106,7 @@
 
 .cover__description-text {
   font-size: 22px;
-  line-height: 28px;
+  line-height: 1.27em;
   font-weight: 400;
   text-transform: uppercase;
 }
